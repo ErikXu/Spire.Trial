@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spire.Trial.Entry", "Spire.Trial.Entry\Spire.Trial.Entry.csproj", "{D81A2DDF-5096-44E9-9DB1-C15E6A2F1BCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spire.Doc.Client", "Spire.Doc.Client\Spire.Doc.Client.csproj", "{A3ED25AE-98CC-4B5D-AB17-D45127529381}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D81A2DDF-5096-44E9-9DB1-C15E6A2F1BCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D81A2DDF-5096-44E9-9DB1-C15E6A2F1BCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D81A2DDF-5096-44E9-9DB1-C15E6A2F1BCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D81A2DDF-5096-44E9-9DB1-C15E6A2F1BCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3ED25AE-98CC-4B5D-AB17-D45127529381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3ED25AE-98CC-4B5D-AB17-D45127529381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3ED25AE-98CC-4B5D-AB17-D45127529381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3ED25AE-98CC-4B5D-AB17-D45127529381}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
